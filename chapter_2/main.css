@@ -1,3 +1,8 @@
 section {
   background: brown;
 }
+
+h1 {
+  color: yellow;
+  font-family: "Anton", sans-serif;
+}
