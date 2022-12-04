@@ -6,3 +6,16 @@ h1 {
   color: yellow;
   font-family: "Anton", sans-serif;
 }
+.main_header {
+  background-color: aquamarine;
+  width: 100%;
+  padding: 8px 16px;
+}
+
+.main_nav {
+  display: inline-block;
+}
+.main_nav_items {
+}
+.main_nav_item {
+}
